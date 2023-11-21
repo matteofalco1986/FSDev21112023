@@ -138,13 +138,13 @@ section h2 {
   box-shadow: 2px 2px 8px #111111;
 }
 
-.fal.fa-plus-square, .fal.fa-calendar-alt {
-  bottom: 100px;
+.far.fa-plus-square, .far.fa-calendar-alt {
+  bottom: 180px;
   color: #3F6BCA;
 }
 
-.fal.fa-calendar-alt{
-  bottom: 180px;
+.far.fa-calendar-alt{
+  bottom: 100px;
 }
 
 h1 {
@@ -213,11 +213,11 @@ h1 + p {
   h1 {
     font-size: 3.6rem;
   }
-  .fal.fa-plus-square, .fal.fa-calendar-alt {
+  .far.fa-plus-square, .far.fa-calendar-alt {
     bottom: 90vh;
   }
   
-  .fal.fa-calendar-alt{
+  .far.fa-calendar-alt{
     bottom: 82vh;
   }
 }
